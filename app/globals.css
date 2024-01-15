@@ -10,3 +10,7 @@
 .game-item {
   @apply p-10 bg-white rounded-full h-52 w-52 flex justify-center items-center border-[15px] transition ease-in-out duration-300 hover:scale-125 cursor-pointer
 }
+
+.game-result {
+  @apply p-6 bg-white rounded-full h-32 w-32 flex justify-center items-center border-[10px] transition ease-in-out duration-300 hover:scale-125 cursor-pointer
+}

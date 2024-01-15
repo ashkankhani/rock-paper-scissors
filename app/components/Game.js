@@ -48,7 +48,7 @@ const Game = () => {
     return (
         <div>
             <div 
-                className='w-96 mx-auto mt-10 p-5 text-center bg-slate-600 rounded-xl text-white text-2xl'
+                className='w-80 mx-auto mt-10 p-5 text-center bg-slate-600 rounded-xl text-white text-2xl'
                 dir="rtl">
                 <p>امتیاز شما : {myScore}</p>
                 <p>امتیاز کامپیوتر : {pcScore}</p>
