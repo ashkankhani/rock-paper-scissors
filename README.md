@@ -31,5 +31,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Test Live Project
 you can see live project on with this link:
-<a href="rock-paper-scissors-nine-mu.vercel.app">Click Me</a>
+<a href="https://rock-paper-scissors-nine-mu.vercel.app">Click Me</a>
 
